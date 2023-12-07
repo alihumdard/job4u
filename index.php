@@ -23,7 +23,7 @@ $fetch_enteries_rows = mysqli_num_rows(mysqli_query($db,"select * from user_entr
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Placeholder</title>
+    <title>Job4u</title>
 
     
 </head>
