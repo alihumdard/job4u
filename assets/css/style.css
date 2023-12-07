@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* ==================navbar============== */
+.navbar{
+    background-color: #005bbb;
+    color: white;
+}
+.navbar .btn{
+    background-color: #ffd500;
+    font-size: 14px;
+    font-weight: 600;
+}
+.banner .banner-p{
+    width: 50%;
+}
+.banner .form-control{
+    border: 2px solid #ced4da;
+    /* border-radius: 0px; */
+}
+.banner label{
+    font-size: 14px;
+    font-weight: 600;
+}
+.banner .banner-p h2{
+    font-size: 31px;
+    font-weight: 600;
+}
+.banner .btn-p{
+     text-align: center !important;
+}
+.banner .btn-p .btn{
+    border: 2px solid #ffd500;
+    /* border: 2px solid #ced4da; */
+    background-color: #ffd500;
+    font-weight: 600;
+}
+.banner .btn-p a{
+    color: black;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: revert;
+}
+.banner .new .btn{
+    border: 2px solid #ffd500;
+    background-color: #ffd500;
+    font-weight: 600;
+
+}
+/* ======================Profile================ */
+.Profile .Profile-p h2{
+    font-size: 31px;
+    font-weight: 600;
+}
+.Profile .Profile-p h6{
+    color: #005bbb;
+    font-weight: 600;
+}
+.Profile .Profile-p h6 span{
+    color: black;
+    font-weight: 600;
+}
+/* =====================entries=================== */
+.entries h2{
+    font-size: 31px;
+    font-weight: 600;
+}
+.entries .btn{
+    border: 2px solid #ffd500;
+    background-color: #ffd500;
+    font-weight: 600;
+    
+}
+.entries{
+    border-bottom: 2px solid black;
+}
+.entries h5{
+    font-size: 17px;
+    font-weight: 600;
+    color: black;
+}
+.entries p{
+    font-weight: 500;
+    color: #585656;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* ==================navbar============== */
+.navbar{
+    background-color: #005bbb;
+    color: white;
+}
+.navbar .btn{
+    background-color: #ffd500;
+    font-size: 14px;
+    font-weight: 600;
+}
+/* ====================placeholder============== */
+.placeholder .Placeholder-b{
+    background-color: #d9d9d9;
+    border-radius: 10px;
+}
+.placeholder .Placeholder-b h2{
+    font-weight: 600;
+    font-size: 31px;
+}
+.show-details-card .entries{
+    /* border-bottom: 2px solid black; */
+    border-top: 2px solid black;
+
+}
+.show-details-card .entries h5{
+    font-size: 17px;
+    font-weight: 600;
+    color: black;
+}
+.show-details-card .entries p{
+    font-weight: 500;
+    color: #585656;
+}
+.show-details-card .entries .btn{
+    border: 2px solid #ffd500;
+    background-color: #ffd500;
+    font-weight: 600;
+}
+/* ====================apply==================== */
+.apply .apply-b h2{
+    font-weight: 600;
+    font-size: 31px;
+}
+.apply .apply-b p{
+    font-weight: 500;
+    color: #585656;
+}
+.apply .apply-btn .btn{
+    border: 2px solid #ffd500;
+    background-color: #ffd500;
+    font-weight: 600;
+    float: right;
+}
+@media screen and (min-width: 200px) and (max-width: 774px){
+    .banner .banner-p{
+        width: 100% !important;
+    }
+    .show-details-card .entries .btn{
+       margin-top: 0px !important;
+       margin-bottom: 20px !important;
+    }
+}
+
+
+
+
+

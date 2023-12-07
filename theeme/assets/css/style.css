@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* ==================navbar============== */
+.navbar{
+    background-color: #005bbb;
+    color: white;
+}
+.navbar .btn{
+    background-color: #ffd500;
+    font-size: 14px;
+    font-weight: 600;
+}
+/* ====================placeholder============== */
+.placeholder .Placeholder-b{
+    background-color: #d9d9d9;
+    border-radius: 10px;
+}
+.placeholder .Placeholder-b h2{
+    font-weight: 600;
+    font-size: 31px;
+}
+.show-details-card .entries{
+    /* border-bottom: 2px solid black; */
+    border-top: 2px solid black;
+
+}
+.show-details-card .entries h5{
+    font-size: 17px;
+    font-weight: 600;
+    color: black;
+}
+.show-details-card .entries p{
+    font-weight: 500;
+    color: #585656;
+}
+.show-details-card .entries .btn{
+    border: 2px solid #ffd500;
+    background-color: #ffd500;
+    font-weight: 600;
+}
+/* ====================apply==================== */
+.apply .apply-b h2{
+    font-weight: 600;
+    font-size: 31px;
+}
+.apply .apply-b p{
+    font-weight: 500;
+    color: #585656;
+}
+.apply .apply-btn .btn{
+    border: 2px solid #ffd500;
+    background-color: #ffd500;
+    font-weight: 600;
+    float: right;
+}
